@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://61.183.0.30:8081/meap/app/download/AC6F7FF77ADE472E989AA9F0BA51F376.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://61.183.0.30:8081/meap/app/icon/3B6A77DA64575271A33048DD39B1637D/</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>kind</key>
+				<string>software</string>			
+				<key>bundle-version</key>
+				<string>0.2</string>
+				<key>title</key>
+				<string>掌上综调</string>				
+				<key>bundle-identifier</key>
+				<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>				
+				<key>subtitle</key>
+				<string>应用大厅</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
