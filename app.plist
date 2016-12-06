@@ -28,7 +28,7 @@
 				<key>kind</key>
 				<string>software</string>			
 				<key>bundle-version</key>
-				<string>V_0.0.1</string>
+				<string>V_0.0.2</string>
 				<key>title</key>
 				<string>掌上综调</string>				
 				<key>bundle-identifier</key>
